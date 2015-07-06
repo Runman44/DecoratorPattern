@@ -7,7 +7,7 @@ In Factory pattern, we create object without exposing the creation logic to the 
 
 Implementation
 --------------
-our client class will use ShapeFactory to get a Shape object. It will pass information (CIRCLE / RECTANGLE / SQUARE) to ShapeFactory to get the type of object it needs.
+Our client class will use ShapeFactory to get a Shape object. It will pass information (CIRCLE / RECTANGLE / SQUARE) to ShapeFactory to get the type of object it needs.
 
 ![](http://i60.tinypic.com/14udk5v.jpg)
 

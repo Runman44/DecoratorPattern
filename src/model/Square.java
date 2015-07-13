@@ -1,11 +1,10 @@
 package model;
 
-public class Square extends Shape {
+public class Square implements Shape {
 
-// 	When this method is not in Square class it will use the method from the super class. So it will print Shape. 
-//	@Override
-//	public void draw(){
-//		System.out.println("Inside Square::draw() method.");
-//	}
+	@Override
+	public void draw(){
+		System.out.println("Inside Square::draw() method.");
+	}
 	
 }

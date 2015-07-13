@@ -15,7 +15,7 @@ RedShapeDecorator is concrete class implementing ShapeDecorator.
 
 DecoratorPatternDemo, our demo class will use RedShapeDecorator to decorate Shape objects.
 
-![](http://i60.tinypic.com/14udk5v.jpg)
+![](http://s4.postimg.org/jxs2qurl9/decorator_pattern_uml_diagram.jpg)
 
 Copyright Dennis Anderson 2015
 
